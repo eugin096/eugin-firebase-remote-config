@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.homepage = 'https://github.com/capacitor-community/firebase-remote-config'
   s.author = 'Priyank Patel <priyank.patel@stackspace.ca>'
-  s.source = { :git => 'https://github.com/dghathway/firebase-remote-config', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/eugin096/eugin-firebase-remote-config', :tag => s.version.to_s }
   s.source_files = 'ios/Plugin/**/*.{swift,h,m,c,cc,mm,cpp}'
   s.ios.deployment_target  = '12.0'
   s.dependency 'Capacitor'
